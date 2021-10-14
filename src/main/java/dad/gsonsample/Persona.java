@@ -1,3 +1,5 @@
+package dad.gsonsample;
+
 public class Persona {
 
     private String nombre;
